@@ -46,7 +46,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>helloweb03</finalName>
+		<finalName>hellospring03</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
